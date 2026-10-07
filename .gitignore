@@ -1,0 +1,6 @@
+.env
+*.csv
+*.log
+shanelessa.com-*
+__pycache__/
+*.py[cod]
